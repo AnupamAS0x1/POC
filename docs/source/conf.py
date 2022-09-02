@@ -7,9 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'python-bnb-chain'
-copyright = '2022, AnupamAS01'
-author = 'AnupamAS01'
-release = '1.1'
+copyright = '2022, AnupamAs01'
+author = 'AnupamAs01'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
